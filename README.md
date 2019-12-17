@@ -119,11 +119,8 @@ This project does not have versioning and made with learning purposes.
 ## Authors 
 
 * **Ant Kaynak** - *Initial work* - [Github](https://github.com/antkaynak)
+* **Chen Lin** - *Current work* - [Github](https://github.com/chenl101)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/antkaynak/Keyist-Ecommerce/blob/master/LICENSE) for details.
-
-# Questions
-If you have any questions mail me -  antkaynak1@gmail.com
-
